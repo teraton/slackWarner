@@ -1,10 +1,10 @@
 //test filegenerator
 
 let error_messages = [
-    "error1",
-    "error2",
-    "error3",
-    "error4"
+    "env1 error1",
+    "env2 error2",
+    "env1 error3",
+    "env3 error4"
 ]
 
 //generate the weird timestamp format
